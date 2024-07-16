@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <ttle></ttle>
+    </head>
+        <body>
+            <h1>Estrutura Básica de um Documento HTML </h1>
+            <ul>
+                
+            </ul>
+            <p>Todo documento HTML começa com a declaração DOCTYPE html, seguida por elementos html, head, e body.body head 
+                Dentro do head, geralmente encontram-se elementos como title, meta, link, e style.
+                O conteúdo visível da página fica dentro do body.
+                
+                </p>
+            <h2>Elementos e Tags HTML:</h2>
+            <p>HTML é composto por uma série de elementos, que são definidos por tags.
+                Tags comuns incluem p para parágrafos, h1 a h6 para cabeçalhos, a para links, img para imagens, e div para divisões de conteúdo.</p>
+            
+            <h3>Atributos HTML:</h3>
+                <p>Atributos fornecem informações adicionais sobre elementos HTML.
+                    Exemplos de atributos incluem id, class, src (para imagens), href (para links), alt (para texto alternativo em imagens), e style (para estilos inline).</p>
+
+            <h4>Formulários HTML</h4>
+
+                <p>Os formulários permitem a coleta de dados do usuário.
+                    Elementos de formulário incluem form, input, textarea, button, select, e label.
+                    Atributos importantes para formulários incluem action, method, name, value, placeholder, e type.</p>
+
+            <h5>Semântica HTML:</h5>
+                <p>Tags semânticas descrevem o significado do conteúdo que elas envolvem.
+                    Exemplos incluem header (cabeçalho), footer (rodapé), article (artigo), section (seção), nav (navegação), e aside (conteúdo lateral).</p>
+
+            <h6>Links e Navegação:</h6>
+                <p>Os links são criados com a tag a e são essenciais para a navegação na web.
+                    O atributo href define o destino do link.
+                    Links podem ser usados para navegar entre páginas no mesmo site ou para páginas externas.</p>
+
+            </body>
+   
+</html>
